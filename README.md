@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitkumargarnaik" alt="sujitkumargarnaik" /></a> </p>
 
-- 🌱 I’m currently learning **Django & Rails**
+- 🌱 I’m currently learning **Django & AWS**
 
 - 👯 I’m looking to collaborate on **Python & Rails Projects**
 
