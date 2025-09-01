@@ -13,9 +13,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SujitKumarGarnaik](https://github.com/SujitKumarGarnaik)
 
+- 💼 I have **4 months of experience as a Ruby Software Developer Intern** and **4 months as a Python Developer Intern**
+
 - 💬 Ask me about **Full Stack Development, Django, Rails, and PostgreSQL**
 
 - 📫 How to reach me **sujitkumargarnaik2001@gmail.com**
+
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15TYewuryOui2hfKe8AzvuHQAAxwo_cD_/view?usp=drive_link)
 
