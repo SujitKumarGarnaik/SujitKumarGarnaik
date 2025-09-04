@@ -20,7 +20,8 @@
 - 📫 How to reach me **sujitkumargarnaik2001@gmail.com**
 
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/15TYewuryOui2hfKe8AzvuHQAAxwo_cD_/view?usp=drive_link](https://drive.google.com/file/d/1UZIrcHqLNdGgY5wUn2Bgz77GsJ-bDijn/view?usp=drive_link))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UZIrcHqLNdGgY5wUn2Bgz77GsJ-bDijn/view?usp=drive_link)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
